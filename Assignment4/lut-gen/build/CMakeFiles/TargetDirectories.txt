@@ -1,0 +1,6 @@
+/home/xingyu/Desktop/Games202-Assignments/Assignment4/lut-gen/build/CMakeFiles/rebuild_cache.dir
+/home/xingyu/Desktop/Games202-Assignments/Assignment4/lut-gen/build/CMakeFiles/lut-Eavg-IS.dir
+/home/xingyu/Desktop/Games202-Assignments/Assignment4/lut-gen/build/CMakeFiles/lut-Emu-IS.dir
+/home/xingyu/Desktop/Games202-Assignments/Assignment4/lut-gen/build/CMakeFiles/lut-Eavg-MC.dir
+/home/xingyu/Desktop/Games202-Assignments/Assignment4/lut-gen/build/CMakeFiles/edit_cache.dir
+/home/xingyu/Desktop/Games202-Assignments/Assignment4/lut-gen/build/CMakeFiles/lut-Emu-MC.dir
